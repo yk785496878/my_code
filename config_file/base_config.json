@@ -1,0 +1,7 @@
+{
+    "root_path": "/storage/fusion/data_dispatch/",
+    "zmq_sub_ip": "192.168.100.101",
+    "zmq_sub_port": 5009,
+    "zmq_req_ip": "192.168.100.101",
+    "zmq_req_port": 5010
+}
