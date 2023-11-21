@@ -1,7 +1,3 @@
 {
-    "root_path": "/storage/fusion/data_dispatch/",
-    "zmq_sub_ip": "192.168.100.101",
-    "zmq_sub_port": 5009,
-    "zmq_req_ip": "192.168.100.101",
-    "zmq_req_port": 5010
+    "root_path": "/home/20230925_154442_struct_data.bin;/home/20231009_101922_struct_data.bin;/home/20231009_102022_struct_data.bin;/home/20231009_102122_struct_data.bin"
 }
