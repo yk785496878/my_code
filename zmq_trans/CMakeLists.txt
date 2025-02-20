@@ -32,5 +32,5 @@ target_link_libraries(${PROJECT_NAME}
     cppzmq
 )
 
-install(DIRECTORY config_file/
+install(DIRECTORY data/
 DESTINATION ${PROJECT_SOURCE_DIR}/build/config_file)
