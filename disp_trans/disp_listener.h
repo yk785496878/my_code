@@ -1,21 +1,21 @@
-#include <string>
+// #include <string>
 
-class DispListener
-{
-public:
-    DispListener();
-    explicit  DispListener(const char* name);
-    virtual ~DispListener(){};
+// class DispListener
+// {
+// public:
+//     DispListener();
+//     explicit  DispListener(const char* name);
+//     virtual ~DispListener(){};
 
-    virtual void OnInfo1(){};
-    virtual void OnInfo2(){};
+//     virtual void OnInfo1(){};
+//     virtual void OnInfo2(){};
 
 
-public:
-    void SetID(const char *id);
-    char* GetID();
+// public:
+//     void SetID(const char *id);
+//     char* GetID();
 
-private:
-    std::string m_strID;
-};
+// private:
+//     std::string m_strID;
+// };
 

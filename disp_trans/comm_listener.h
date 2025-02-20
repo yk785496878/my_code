@@ -20,7 +20,8 @@ BEGIN_NS_AD
  * @brief
  *
  */
-class COMM_API CommListener
+// class COMM_API CommListener
+class CommListener
 {
 public:
     /**
